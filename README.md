@@ -1,5 +1,5 @@
 # Nokia_Solutions_and_Networks_Internship
-TASK 1 - PDF Document Analysis Experiments with Docling
+**TASK 1 - PDF Document Analysis Experiments with Docling**
 This repository documents a series of experiments focused on building an intelligent chatbot from complex, table-heavy PDF documents using the docling library. The goal was to explore and evaluate different strategies for extraction, retrieval, and generation to find the most effective pipeline.
 
 Project Objective
